@@ -27,7 +27,7 @@ assets/favicon.svg
 
 ## Updating content
 
-- **Booking buttons:** every "Book Now" / "Enquire" button currently opens an Instagram DM (`https://ig.me/m/mhfvenetianfinishes`). Once the WhatsApp number is confirmed, replace that link in `index.html` with `https://wa.me/<number, digits only, e.g. 1403...>?text=Hi%20MHF%20Venetian%20Finishes%2C%20I%27d%20like%20a%20free%20quote.`
+- **WhatsApp:** every "Book Now" / "Enquire" button opens WhatsApp chat with +1 (587) 547-8032 (`https://wa.me/15875478032`) and a pre-filled message. To change the number, find and replace `15875478032` in `index.html`.
 - **Gallery:** the `#work` section. Tiles are placed with the `g-a` to `g-g` grid areas in `styles.css`.
 - **Socials:** Instagram, Facebook and TikTok links are in the contact section and the footer.
 - After editing CSS/JS, bump the `?v=` number on the links in `index.html` so browsers fetch the new version.
