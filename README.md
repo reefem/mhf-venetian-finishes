@@ -21,8 +21,9 @@ index.html            page content
 assets/css/styles.css all styling (colour tokens at the top, taken from the logo)
 assets/js/main.js     mobile menu, gallery lightbox, scroll reveals
 assets/img/           project photos from the MHF Instagram (+ og.jpg for link previews)
-assets/logo.png       client logo, cut out from their Facebook profile picture (500px source)
-assets/column.png     column from the logo (quote band)
+assets/logo.webp      client logo, cut out from the 2000px logo file the client supplied
+assets/column.webp    column from the logo (quote band)
+assets/brand/          original logo file from the client (2000px, on green)
 assets/favicon.png, apple-touch-icon.png
 ```
 
